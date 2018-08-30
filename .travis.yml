@@ -2,3 +2,4 @@ language: cpp
 script:
 - cd Debug
 - make
+- ./hello-travis-cpp
